@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+## First blog post
 
-## This is a title
+Topics on top of my head to write about:
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+* Geospatial data models
+* Global and local autocorrelation 
+* A hands-on comparison article on PostgreSQL and duckdb
+* Implementation of a NN model for assessing building damage due to a storm
+
+
+
