@@ -1,3 +1,5 @@
+# DuckDB Introductory Notebook 
+
 * This notebook is heavily inspired by the introductory workshop on PostGIS.
 * The same tasks are done with DuckDB.
 
